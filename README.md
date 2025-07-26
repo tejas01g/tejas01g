@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejas01g" alt="tejas01g" /></a> </p>
 
-- 🔭 I’m currently working on **Netlnk**
+- 🔭 I’m currently working on **Expensr**
 
-- 🌱 I’m currently learning **React,Java**
+- 🌱 I’m currently learning **MERN**
 
 - 👯 I’m looking to collaborate on **React Project**
 
-- 🤝 I’m looking for help with **DevOps**
+- 🤝 I’m looking for help with **React Native**
 
-- 💬 Ask me about **React,Flutter**
+- 💬 Ask me about **React,React Native**
 
 - 📫 How to reach me **gargtejasvi076@gmail.com**
 
