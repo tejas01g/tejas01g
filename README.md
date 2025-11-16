@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Tejasvi Garg</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate App developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejas01g&label=Profile%20views&color=0e75b6&style=flat" alt="tejas01g" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejas01g" alt="tejas01g" /></a> </p>
 
-- 🔭 I’m currently working on **Expensr**
+- 🔭 I’m currently working on **Dev Social**
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **AI/ML**
 
-- 👯 I’m looking to collaborate on **React Project**
+- 👯 I’m looking to collaborate on **React Native **
 
-- 🤝 I’m looking for help with **React Native**
+- 🤝 I’m looking for help with **AI/ML**
 
-- 💬 Ask me about **React,React Native**
+- 💬 Ask me about **React,React Native,Firebase**
 
 - 📫 How to reach me **gargtejasvi076@gmail.com**
 
