@@ -120,10 +120,55 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tejas01g/tejas01g/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tejas01g/tejas01g/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/tejas01g/tejas01g/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/tejas01g/tejas01g/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
 
 </div>
+
+<!-- ⚠️ SNAKE SETUP: Create this file in your tejas01g/tejas01g repo:
+     .github/workflows/snake.yml  — paste content from the section below -->
+
+<details>
+<summary><b>🐍 Snake Animation Setup (click if snake is not showing)</b></summary>
+
+Create `.github/workflows/snake.yml` in your profile repo (`tejas01g/tejas01g`) with:
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Generate snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: tejas01g
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+After adding this file, go to **Actions → Generate Snake Animation → Run workflow** to trigger it manually once.
+
+</details>
 
 ---
 
