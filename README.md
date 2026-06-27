@@ -53,8 +53,7 @@
 | Project | Description | Stack | Status |
 |:--------|:------------|:------|:------:|
 | 🧑‍💻 **[DevSocial](https://play.google.com/store)** | Developer-focused social platform with AI chatbot (DevBot), real-time chat, coding streaks & job posts | `React Native CLI` `TypeScript` `Firebase` `Groq/Llama 3.3` | ![Live](https://img.shields.io/badge/Play_Store-Live-00C853?style=flat-square&logo=google-play&logoColor=white) |
-| 💸 **Expensr** | AI-powered expense tracker — SMS parsing, Gemini categorization, analytics dashboard | `React Native` `Gemini API` `Firebase` `SVG` | ![Beta](https://img.shields.io/badge/Status-Beta-f59e0b?style=flat-square) |
-| 📋 **Pyngyn** | Workspace & project management app with deep linking, invite flows & email automation | `React Native` `Firebase` `Cloud Run` `Node.js` | ![Closed](https://img.shields.io/badge/Testing-Closed-7c3aed?style=flat-square) |
+| 💸 **Expensr** | AI-powered expense tracker — SMS parsing, Gemini categorization, analytics dashboard | `React Native` `Gemini API` `Firebase` `SVG` | ![inDevelopment](https://img.shields.io/badge/Status-Beta-f59e0b?style=flat-square) |
 | 🌐 **PortalDrop** | AR location-pinned social app — drop digital portals at real-world coordinates | `React Native CLI` `ViroReact` `Firebase` `Geohash` | ![WIP](https://img.shields.io/badge/Status-WIP-6b7280?style=flat-square) |
 
 ---
